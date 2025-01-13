@@ -3,9 +3,15 @@ Astro version 1 é a primeira versão de um projeto de assistente pessoal, nessa
 Python 3.11.6
 
 Bibliotecas
+
 pip install speech_recognition
+
 pip install gTTS
+
 pip install random
+
 pip install webbrowser
+
 pip install pyttsx3
+
 pip install playsound
